@@ -2,16 +2,6 @@
 
 A streamlined approach to decision tree analysis using the famous Iris dataset. This version focuses on model generation, testing, and practical implementation with minimal complexity.
 
-## Comparison with Original Version
-
-| Feature | Original Version | Simple Version |
-|---------|------------------|----------------|
-| **Visualization** | Static matplotlib plots | Minimal matplotlib plots |
-| **Tree Display** | Basic sklearn plot_tree | Clean sklearn plot_tree |
-| **Model Analysis** | Single model approach | Focused single model |
-| **Complexity** | Medium complexity | Low complexity |
-| **Testing** | Basic evaluation | Comprehensive testing suite |
-| **Focus** | Exploration | Model generation & testing |
 
 ## Files Included
 
@@ -303,22 +293,3 @@ The code is designed to be easily customizable:
 - Adjust hyperparameter grids for different optimization strategies
 - Add new visualization types using Plotly
 - Extend analysis to other datasets
-
-## Notes
-
-- The notebook includes detailed markdown explanations for each step
-- All visualizations are interactive and can be saved as HTML
-- The Python script version provides the same analysis in a command-line format
-- Graphviz output can be rendered to various formats (PNG, SVG, PDF)
-
-## Contributing
-
-Feel free to enhance this analysis further by:
-- Adding new visualization types
-- Implementing additional machine learning algorithms
-- Creating comparative studies with other datasets
-- Improving the interactive elements
-
----
-
-**Created for enhanced machine learning education and analysis**
